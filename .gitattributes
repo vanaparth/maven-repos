@@ -1,1 +1,3 @@
-.git* export-ignore
+*.key filter=git-crypt diff=git-crypt
+*.cpp filter=git-crypt diff=git-crypt
+*.hpp filter=git-crypt diff=git-crypt
